@@ -2,8 +2,9 @@
 - 👀 I’m interested in Learning Java and Mobile App Developmennt
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me Twitter @MainaWaWaithera
-Email:Petermaina546@gmail.com
+- 📫 How to reach me 
+-         Twitter @MainaWaWaithera
+          Email:Petermaina546@gmail.com
 
 
 <!---
